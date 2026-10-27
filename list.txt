@@ -1,9 +1,0 @@
-# MyBBSHome list - one entry per line:
-#
-#     TLE="Label shown on the menu" ADS="host:port"
-#
-# The port is optional (default 23).  Put a # in front of a line to hide it.
-# This file is re-read for every visitor, no restart needed.
-
-TLE="EXAMPLE" ADS="example.com:23"
-#TLE="Another BBS" ADS="bbs.example.net:2323"
